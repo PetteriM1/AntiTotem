@@ -1,0 +1,4 @@
+name: AntiTotem
+main: me.petterim1.antitotem.Main
+version: "${pom.version}"
+api: ["1.0.0"]
